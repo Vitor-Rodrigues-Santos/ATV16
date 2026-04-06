@@ -29,7 +29,6 @@ Para exercitar a abstração, foram desenvolvidos algoritmos para os seguintes c
 
 ## 🛠️ Ferramentas Utilizadas
 * **Microsoft Word:** Utilizado para a redação dos textos e desenho das formas dos fluxogramas.
-* **Lógica Linear:** Estruturação de pensamento passo a passo.
 
 ---
 
