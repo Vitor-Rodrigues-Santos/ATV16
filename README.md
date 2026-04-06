@@ -2,8 +2,7 @@
 
 Este repositório contém as atividades iniciais desenvolvidas para o estudo de **Lógica de Programação**. O foco principal foi exercitar a capacidade de decompor tarefas do dia a dia em instruções lógicas, sequenciais e ordenadas.
 
-> **Status:** Concluído ✅ | **Nível:** Iniciante (Lógica Linear)
-
+> **Status:** Concluído ✅ |
 ---
 
 ## 🧠 Sobre a Atividade
