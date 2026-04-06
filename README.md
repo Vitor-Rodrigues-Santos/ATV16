@@ -2,7 +2,6 @@
 
 Este repositório contém as atividades iniciais desenvolvidas para o estudo de **Lógica de Programação**. O foco principal foi exercitar a capacidade de decompor tarefas do dia a dia em instruções lógicas, sequenciais e ordenadas.
 
-> **Status:** Concluído ✅ |
 ---
 
 ## 🧠 Sobre a Atividade
@@ -11,7 +10,7 @@ O objetivo foi traduzir processos comuns do nosso cotidiano para a linguagem de 
 1.  **Pseudocódigo:** Descrição dos passos em linguagem natural estruturada.
 2.  **Fluxograma:** Representação visual do caminho das informações.
 
-Como o foco era a base da lógica, todos os algoritmos seguem um **fluxo linear** (entrada -> processamento -> saída), sem desvios condicionais ou repetições.
+Como o foco era a base da lógica, todos os algoritmos seguem um **fluxo linear** (início -> processos -> fim), sem desvios condicionais ou repetições.
 
 ---
 
