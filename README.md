@@ -18,7 +18,7 @@ Como o foco era a base da lógica, todos os algoritmos seguem um **fluxo linear*
 ## 📋 Desafios Propostos
 Para exercitar a abstração, foram desenvolvidos algoritmos para os seguintes cenários:
 
-| Atividade |
+| Atividade | Descrição Lógica |
 | :--- | :--- |
 | 💡 **Troca de Lâmpada** | Sequência de segurança e substituição do componente. |
 | 🚗 **Troca de Pneu** | Organização de ferramentas e etapas de esforço físico. |
